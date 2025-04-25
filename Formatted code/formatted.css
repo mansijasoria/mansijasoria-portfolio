@@ -68,7 +68,6 @@ body{
     /* cursor: none; */
 }
 
-
 .cursor-inner{
     width: 8px;
     height: 8px;
@@ -100,6 +99,8 @@ body{
     height: 50px;
     transition: all .2s;
 }
+
+
 
 
 /* for light mode */
@@ -1982,6 +1983,10 @@ transition-duration: 1s;
         gap: 20px;
     }
   }
+
+
+
+
   /* https://github.com/vinodjangid07 */
   /* responsive code above */
 /*   
