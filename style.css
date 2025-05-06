@@ -730,7 +730,7 @@ noscript {
 
 .dp::after,
 .dp::before {
-    height: 390px;
+    height: 370px;
     z-index: -2;
     content: ""
 }
